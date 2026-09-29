@@ -1,0 +1,13 @@
+Add these live ServiceNow screenshots:
+1. High Impact Control UI Policy
+2. Assignment group UI Policy Action
+3. Urgency UI Policy Action
+4. onChange Client Script
+5. onSubmit Client Script
+6. onCellEdit Client Script
+7. High Impact form behavior
+8. Failed save with Assigned To error
+9. Successful save
+10. Reverse condition
+11. State list edit blocked
+12. State form update successful
